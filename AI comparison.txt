@@ -1,0 +1,72 @@
+Capability
+Pure chatbot
+Traditional data pipeline
+AI application
+Answer questions conversationally
+✓
+✕
+✓
+Summarise and generate content
+✓
+✕
+✓
+Process structured data reliably
+△
+✓
+✓
+Interpret documents, emails and comments
+✓
+✕
+✓
+Integrate with multiple enterprise systems
+△
+✓
+✓
+Select the appropriate tool at runtime
+△
+✕
+✓
+Call APIs and business services
+△
+✓
+✓
+Perform bounded actions in business systems
+△
+✓
+✓
+Follow a predefined workflow
+△
+✓
+✓
+Adapt the workflow based on context
+△
+✕
+✓
+Maintain persistent business or case state
+△
+△
+✓
+Handle ambiguous or exceptional cases
+△
+✕
+✓
+Combine rules, models and AI judgement
+✕
+△
+✓
+Pause for human input or approval
+△
+△
+✓
+Continue after human input or an external event
+△
+△
+✓
+Provide traceable evidence for a recommendation
+△
+✓
+✓
+Complete an end-to-end knowledge-work process
+✕
+△
+✓
